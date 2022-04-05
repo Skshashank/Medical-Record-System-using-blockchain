@@ -1,16 +1,5 @@
 # EHR 2.0
 
-## For Full working project 
-
--- Apponitments
--- Pdf upload
--- and much more.
-
-Demo : https://youtu.be/d_-pWoGgdVs
-
-contact : 
-[Mail](mailto:tshamil90@gmail.com?Subject=ehr-blockchain&Body=Hi,)
-`tshamil90@gmail.com`
 
 🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
 
